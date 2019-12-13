@@ -47,7 +47,7 @@
 | --- | --- | --- |
 | 1 | Huỳnh Quốc An | 17520207 |
 | 2 | Nguyễn Đức Minh Nguyên | 17520823 |
-| 3 | Nguyễn Vân Phượng Anh |  |
+| 3 | Nguyễn Vân Phượng Anh | 17520247  |
 | 4 | Huỳnh Quang Minh |  |
 
 ## Source Code
