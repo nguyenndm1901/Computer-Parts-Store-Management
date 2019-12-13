@@ -40,7 +40,7 @@
 ## Built with 
 - Programming Language: C# with .Net Framework Version 4.7.2
 - [Microsoft Visual Studio 2017 and 2019 ](https://visualstudio.microsoft.com/)
-- [Microsoft SQL Serrver Management Studio](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
+- [Microsoft SQL Server Management Studio](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
 
 ## Authors
 | No. | Full Name | Student ID |
