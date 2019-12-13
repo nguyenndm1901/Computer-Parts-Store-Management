@@ -10,11 +10,10 @@
 | --- | ------- | ---- | ----- |
 |  1  | Create products lists | Form 1 | |
 |  2  | Create payment billings | Form 2 | |
-|  3  | Search for inventory | Form 3 | |
-|  4  | Search for customers | Form 4 | |
-|  5  | Search for staffs | Form 5 | |
-|  6  | Check for revenue | Form 6 | |
-|  7  | Check for staff's sales | Form 7 | |
+|  3  | Search for customers | Form 3 | |
+|  4  | Search for staffs | Form 4 | |
+|  5  | Check for revenue | Form 5 | |
+|  6  | Check for staff's sales | Form 6 | |
 
 ### Example:
 #### Products List Table
