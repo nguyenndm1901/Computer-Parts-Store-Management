@@ -1,15 +1,15 @@
 ﻿use [master]
 GO
 
-create database DBCPSM
-GO
 
 use DBCPSM
 GO
 
 create table KhachHang
-(
-	maKH varchar(10) primary key not null,
+(	
+	maKH int identity(1,1) primary key not null,
+	ngayMua date not null,
+	maHD varchar(10) not null,
 	tenKH nvarchar(50) not null,
 	sdt char(15) not null
 )
@@ -29,7 +29,7 @@ create table NhanVien
 	id int identity(1,1) primary key not null,
 	maNV varchar(5) not null,
 	tenNV nvarchar(50) not null,
-	doanhThu int null
+	doanhThu int not null
 )
 
 create table HoaDon
@@ -55,11 +55,11 @@ create table ThongKe
 )
 
 SET IDENTITY_INSERT [dbo].[NhanVien] ON
-INSERT INTO [dbo].[NhanVien] ([id],[maNV],[tenNV]) VALUES(1,'NV001',N'Trần Đức Phú')
-INSERT INTO [dbo].[NhanVien] ([id],[maNV],[tenNV]) VALUES(2,'NV002',N'Trương Ngọc Minh')
-INSERT INTO [dbo].[NhanVien] ([id],[maNV],[tenNV]) VALUES(3,'NV003',N'Huỳnh Phương Thảo')
-INSERT INTO [dbo].[NhanVien] ([id],[maNV],[tenNV]) VALUES(4,'NV004',N'Cù Huy Chiến')
-INSERT INTO [dbo].[NhanVien] ([id],[maNV],[tenNV]) VALUES(5,'NV005',N'Huỳnh Hoàng Thiên Tài')
+INSERT INTO [dbo].[NhanVien] ([id],[maNV],[tenNV],[doanhThu]) VALUES(1,'NV001',N'Trần Đức Phú',0)
+INSERT INTO [dbo].[NhanVien] ([id],[maNV],[tenNV],[doanhThu]) VALUES(2,'NV002',N'Trương Ngọc Minh',0)
+INSERT INTO [dbo].[NhanVien] ([id],[maNV],[tenNV],[doanhThu]) VALUES(3,'NV003',N'Huỳnh Phương Thảo',0)
+INSERT INTO [dbo].[NhanVien] ([id],[maNV],[tenNV],[doanhThu]) VALUES(4,'NV004',N'Cù Huy Chiến',0)
+INSERT INTO [dbo].[NhanVien] ([id],[maNV],[tenNV],[doanhThu]) VALUES(5,'NV005',N'Huỳnh Hoàng Thiên Tài',0)
 SET IDENTITY_INSERT [dbo].[NhanVien] OFF
 
 SET IDENTITY_INSERT [dbo].[SanPham] ON
