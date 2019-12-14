@@ -1,11 +1,14 @@
 ﻿use [master]
 GO
 
-create database DBCPSM
-GO
-
 use DBCPSM
 GO
+
+create table StaffLogIn 
+(
+	id char(20) not null,
+	pass char(20) not null
+)
 
 create table KhachHang
 (	
@@ -55,6 +58,10 @@ create table ThongKe
 	giaTien int NULL,
 	thanhTien int NULL
 )
+
+INSERT INTO [dbo].[StaffLogIn] ([id],[pass]) VALUES('hamvui9910','hamvui9920')
+INSERT INTO [dbo].[StaffLogIn] ([id],[pass]) VALUES('nguyenndm1901','12345612')
+INSERT INTO [dbo].[StaffLogIn] ([id],[pass]) VALUES('testid','testpass')
 
 SET IDENTITY_INSERT [dbo].[NhanVien] ON
 INSERT INTO [dbo].[NhanVien] ([id],[maNV],[tenNV],[doanhThu]) VALUES(1,'NV001',N'Trần Đức Phú',0)
