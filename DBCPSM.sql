@@ -1,6 +1,8 @@
 ﻿use [master]
 GO
 
+create database DBCPSM
+GO
 
 use DBCPSM
 GO
@@ -94,5 +96,3 @@ INSERT INTO [dbo].[SanPham] ([id],[maSP],[tenSP],[giaTien],[dvt],[thoiGianBH]) V
 INSERT INTO [dbo].[SanPham] ([id],[maSP],[tenSP],[giaTien],[dvt],[thoiGianBH]) VALUES (29,'SP029','GSKILL TRIDENT 8GB 3000',1000000,N'bộ',24)
 INSERT INTO [dbo].[SanPham] ([id],[maSP],[tenSP],[giaTien],[dvt],[thoiGianBH]) VALUES (30,'SP030','RAM APACER 8GB 3200',1490000,N'bộ',24)
 SET IDENTITY_INSERT [dbo].[SanPham] OFF
-
-select * from ThongKe
