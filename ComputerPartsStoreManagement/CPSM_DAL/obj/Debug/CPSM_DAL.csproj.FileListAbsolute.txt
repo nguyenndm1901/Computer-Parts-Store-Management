@@ -1,0 +1,8 @@
+C:\Users\hamvu\source\repos\ComputerPartsStoreManagement\CPSM_DAL\bin\Debug\CPSM_DAL.dll
+C:\Users\hamvu\source\repos\ComputerPartsStoreManagement\CPSM_DAL\bin\Debug\CPSM_DAL.pdb
+C:\Users\hamvu\source\repos\ComputerPartsStoreManagement\CPSM_DAL\bin\Debug\CPSM_DTO.dll
+C:\Users\hamvu\source\repos\ComputerPartsStoreManagement\CPSM_DAL\bin\Debug\CPSM_DTO.pdb
+C:\Users\hamvu\source\repos\ComputerPartsStoreManagement\CPSM_DAL\obj\Debug\CPSM_DAL.csprojAssemblyReference.cache
+C:\Users\hamvu\source\repos\ComputerPartsStoreManagement\CPSM_DAL\obj\Debug\CPSM_DAL.csproj.CopyComplete
+C:\Users\hamvu\source\repos\ComputerPartsStoreManagement\CPSM_DAL\obj\Debug\CPSM_DAL.dll
+C:\Users\hamvu\source\repos\ComputerPartsStoreManagement\CPSM_DAL\obj\Debug\CPSM_DAL.pdb

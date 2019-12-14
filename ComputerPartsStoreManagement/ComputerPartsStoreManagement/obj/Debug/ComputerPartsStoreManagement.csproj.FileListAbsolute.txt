@@ -1,0 +1,9 @@
+C:\Users\hamvu\source\repos\ComputerPartsStoreManagement\ComputerPartsStoreManagement\bin\Debug\ComputerPartsStoreManagement.exe.config
+C:\Users\hamvu\source\repos\ComputerPartsStoreManagement\ComputerPartsStoreManagement\bin\Debug\ComputerPartsStoreManagement.exe
+C:\Users\hamvu\source\repos\ComputerPartsStoreManagement\ComputerPartsStoreManagement\bin\Debug\ComputerPartsStoreManagement.pdb
+C:\Users\hamvu\source\repos\ComputerPartsStoreManagement\ComputerPartsStoreManagement\obj\Debug\ComputerPartsStoreManagement.csprojAssemblyReference.cache
+C:\Users\hamvu\source\repos\ComputerPartsStoreManagement\ComputerPartsStoreManagement\obj\Debug\ComputerPartsStoreManagement.frmMain.resources
+C:\Users\hamvu\source\repos\ComputerPartsStoreManagement\ComputerPartsStoreManagement\obj\Debug\ComputerPartsStoreManagement.Properties.Resources.resources
+C:\Users\hamvu\source\repos\ComputerPartsStoreManagement\ComputerPartsStoreManagement\obj\Debug\ComputerPartsStoreManagement.csproj.GenerateResource.cache
+C:\Users\hamvu\source\repos\ComputerPartsStoreManagement\ComputerPartsStoreManagement\obj\Debug\ComputerPartsStoreManagement.exe
+C:\Users\hamvu\source\repos\ComputerPartsStoreManagement\ComputerPartsStoreManagement\obj\Debug\ComputerPartsStoreManagement.pdb
