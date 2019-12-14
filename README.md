@@ -22,9 +22,6 @@
 |           SP001           | Laptop Asus Vivobook X407MA BV169T |    7.2000.000đ    |   cái   | 24 |
 |           SP020           | AMD Ryzen 9 3900x 3.8GHz |    13.090.000đ    |   cái   | 36 |
 
-## FDD
-
-
 ## System Requirement
 ### Minimum:
 - Processor: Intel Celeron processor 743 1.3GHz
@@ -32,9 +29,6 @@
 - Storage: 1GB of storage
 - VGA: Intergrated Graphic Card 
 - OS: Windows 10 64-bit
-
-## Installing
-*Work in process*
 
 ## Built with 
 - Programming Language: C# with .Net Framework Version 4.7.2
@@ -50,6 +44,7 @@
 | 4 | Huỳnh Quang Minh | 17520749 |
 
 ## Source Code
+[Download Source Code here](https://drive.google.com/open?id=1K4c-LWBQ1uShkH2bpGUvGACHhAlvufOu)
 
 
 #### VNU HCM-UIT
