@@ -127,5 +127,17 @@ namespace ComputerPartsStoreManagement
             frmSuaXoaSanPham edit = new frmSuaXoaSanPham();
             edit.ShowDialog();
         }
+
+        private void showlogin()
+        {
+            frmDangNhap login = new frmDangNhap();
+            login.ShowDialog();
+        }
+        private void thoátĐăngNhậpToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Thread thread = new Thread(new ThreadStart(showlogin));
+            thread.Start();
+            this.Close();
+        }
     }
 }

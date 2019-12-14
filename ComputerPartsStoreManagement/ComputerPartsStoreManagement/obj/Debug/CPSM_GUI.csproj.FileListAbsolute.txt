@@ -38,3 +38,4 @@ C:\Users\hamvu\source\repos\ComputerPartsStoreManagement\ComputerPartsStoreManag
 C:\Users\hamvu\source\repos\ComputerPartsStoreManagement\ComputerPartsStoreManagement\obj\Debug\ComputerPartsStoreManagement.frmHoaDon.resources
 C:\Users\hamvu\source\repos\ComputerPartsStoreManagement\ComputerPartsStoreManagement\obj\Debug\ComputerPartsStoreManagement.frmSanPhamDaBan.resources
 C:\Users\hamvu\source\repos\ComputerPartsStoreManagement\ComputerPartsStoreManagement\obj\Debug\ComputerPartsStoreManagement.frmSuaXoaSanPham.resources
+C:\Users\hamvu\source\repos\ComputerPartsStoreManagement\ComputerPartsStoreManagement\obj\Debug\ComputerPartsStoreManagement.frmDangNhap.resources
