@@ -1,6 +1,9 @@
 ﻿use [master]
 GO
 
+create database DBCPDM
+GO
+
 use DBCPSM
 GO
 
