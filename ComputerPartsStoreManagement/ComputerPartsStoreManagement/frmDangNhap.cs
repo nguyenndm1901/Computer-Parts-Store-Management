@@ -21,6 +21,7 @@ namespace ComputerPartsStoreManagement
             InitializeComponent();
         }
 
+
         private bool isExisted()
         {
             bool tatkt = false;
@@ -65,6 +66,22 @@ namespace ComputerPartsStoreManagement
                 Thread thread = new Thread(new ThreadStart(showmain));
                 thread.Start();
                 this.Close();
+            }
+        }
+
+        private void TxtID_KeyDown(object sender, KeyEventArgs e)
+        {
+            if (e.KeyCode == Keys.Enter)
+            {
+                btnLogin.PerformClick();
+            }
+        }
+
+        private void TxtPass_KeyDown(object sender, KeyEventArgs e)
+        {
+            if (e.KeyCode == Keys.Enter)
+            {
+                btnLogin.PerformClick();
             }
         }
     }

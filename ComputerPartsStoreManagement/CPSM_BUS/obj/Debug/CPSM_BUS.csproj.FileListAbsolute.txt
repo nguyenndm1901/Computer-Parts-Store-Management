@@ -8,3 +8,14 @@ C:\Users\hamvu\source\repos\ComputerPartsStoreManagement\CPSM_BUS\obj\Debug\CPSM
 C:\Users\hamvu\source\repos\ComputerPartsStoreManagement\CPSM_BUS\obj\Debug\CPSM_BUS.csproj.CopyComplete
 C:\Users\hamvu\source\repos\ComputerPartsStoreManagement\CPSM_BUS\obj\Debug\CPSM_BUS.dll
 C:\Users\hamvu\source\repos\ComputerPartsStoreManagement\CPSM_BUS\obj\Debug\CPSM_BUS.pdb
+D:\Repository\Computer-Parts-Store-Management\ComputerPartsStoreManagement\CPSM_BUS\bin\Debug\CPSM_BUS.dll
+D:\Repository\Computer-Parts-Store-Management\ComputerPartsStoreManagement\CPSM_BUS\bin\Debug\CPSM_BUS.pdb
+D:\Repository\Computer-Parts-Store-Management\ComputerPartsStoreManagement\CPSM_BUS\bin\Debug\CPSM_DAL.dll
+D:\Repository\Computer-Parts-Store-Management\ComputerPartsStoreManagement\CPSM_BUS\bin\Debug\CPSM_DTO.dll
+D:\Repository\Computer-Parts-Store-Management\ComputerPartsStoreManagement\CPSM_BUS\bin\Debug\CPSM_DAL.pdb
+D:\Repository\Computer-Parts-Store-Management\ComputerPartsStoreManagement\CPSM_BUS\bin\Debug\CPSM_DTO.pdb
+D:\Repository\Computer-Parts-Store-Management\ComputerPartsStoreManagement\CPSM_BUS\obj\Debug\CPSM_BUS.csprojAssemblyReference.cache
+D:\Repository\Computer-Parts-Store-Management\ComputerPartsStoreManagement\CPSM_BUS\obj\Debug\CPSM_BUS.csproj.CoreCompileInputs.cache
+D:\Repository\Computer-Parts-Store-Management\ComputerPartsStoreManagement\CPSM_BUS\obj\Debug\CPSM_BUS.csproj.CopyComplete
+D:\Repository\Computer-Parts-Store-Management\ComputerPartsStoreManagement\CPSM_BUS\obj\Debug\CPSM_BUS.dll
+D:\Repository\Computer-Parts-Store-Management\ComputerPartsStoreManagement\CPSM_BUS\obj\Debug\CPSM_BUS.pdb

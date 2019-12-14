@@ -65,13 +65,13 @@
             this.hệThốngToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.đóngỨngDụngToolStripMenuItem});
             this.hệThốngToolStripMenuItem.Name = "hệThốngToolStripMenuItem";
-            this.hệThốngToolStripMenuItem.Size = new System.Drawing.Size(71, 20);
+            this.hệThốngToolStripMenuItem.Size = new System.Drawing.Size(72, 20);
             this.hệThốngToolStripMenuItem.Text = "Hệ Thống";
             // 
             // đóngỨngDụngToolStripMenuItem
             // 
             this.đóngỨngDụngToolStripMenuItem.Name = "đóngỨngDụngToolStripMenuItem";
-            this.đóngỨngDụngToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.đóngỨngDụngToolStripMenuItem.Size = new System.Drawing.Size(158, 22);
             this.đóngỨngDụngToolStripMenuItem.Text = "Đóng ứng dụng";
             this.đóngỨngDụngToolStripMenuItem.Click += new System.EventHandler(this.đóngỨngDụngToolStripMenuItem_Click);
             // 
@@ -99,6 +99,7 @@
             this.txtID.Name = "txtID";
             this.txtID.Size = new System.Drawing.Size(187, 20);
             this.txtID.TabIndex = 4;
+            this.txtID.KeyDown += new System.Windows.Forms.KeyEventHandler(this.TxtID_KeyDown);
             // 
             // txtPass
             // 
@@ -107,6 +108,7 @@
             this.txtPass.PasswordChar = '*';
             this.txtPass.Size = new System.Drawing.Size(187, 20);
             this.txtPass.TabIndex = 5;
+            this.txtPass.KeyDown += new System.Windows.Forms.KeyEventHandler(this.TxtPass_KeyDown);
             // 
             // btnLogin
             // 
