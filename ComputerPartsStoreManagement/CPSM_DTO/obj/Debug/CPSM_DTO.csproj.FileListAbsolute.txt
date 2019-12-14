@@ -1,0 +1,5 @@
+C:\Users\hamvu\source\repos\ComputerPartsStoreManagement\CPSM_DTO\bin\Debug\CPSM_DTO.dll
+C:\Users\hamvu\source\repos\ComputerPartsStoreManagement\CPSM_DTO\bin\Debug\CPSM_DTO.pdb
+C:\Users\hamvu\source\repos\ComputerPartsStoreManagement\CPSM_DTO\obj\Debug\CPSM_DTO.csprojAssemblyReference.cache
+C:\Users\hamvu\source\repos\ComputerPartsStoreManagement\CPSM_DTO\obj\Debug\CPSM_DTO.dll
+C:\Users\hamvu\source\repos\ComputerPartsStoreManagement\CPSM_DTO\obj\Debug\CPSM_DTO.pdb
