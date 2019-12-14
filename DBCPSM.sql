@@ -1,7 +1,22 @@
 ﻿use [master]
 GO
 
-use DBCPSM
+WHILE EXISTS(select NULL from sys.databases where name='DBCPSM')
+BEGIN
+    DECLARE @SQL varchar(max)
+    SELECT @SQL = COALESCE(@SQL,'') + 'Kill ' + Convert(varchar, SPId) + ';'
+    FROM MASTER..SysProcesses
+    WHERE DBId = DB_ID(N'DBCPSM') AND SPId <> @@SPId
+    EXEC(@SQL)
+    DROP DATABASE [QLTC]
+END
+GO
+
+/* Collation = SQL_Latin1_General_CP1_CI_AS */
+CREATE DATABASE [DBCPSM]
+GO
+
+use [DBCPSM]
 GO
 
 create table StaffLogIn 
