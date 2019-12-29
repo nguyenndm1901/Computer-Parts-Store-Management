@@ -1,5 +1,5 @@
 # University Of Information Technology
-# Software Engineering Falcuty
+# Software Engineering Faculty
 
 ## Computer Parts Store Management
 
